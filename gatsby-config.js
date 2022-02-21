@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `Abdelrahman M. Safwat`,
     siteTitleAlt: `Abdelrahman M. Safwat - Portfolio`,
     siteHeadline: `Abdelrahman M. Safwat - Portfolio`,
-    siteUrl: `https://cara.lekoarts.de`,
+    siteUrl: `https://abdelrahmansafwat.netlify.app/`,
     siteDescription: `A portfolio for Abdelrahman m. Safwat, a software developer that runs on water (and food)`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
